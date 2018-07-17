@@ -1,3 +1,5 @@
+# Sample code for an article
+
 import boto3,json
 
 client = boto3.client('lambda')
